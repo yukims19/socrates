@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.reason-input {
+  width: 80%;
+  height: 50vh;
+}
+
+.result-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.reasons {
+  border: 1px solid #cdcdcd;
+  width: 50%;
+  min-height: 30vh;
+  margin: 24px;
+}
